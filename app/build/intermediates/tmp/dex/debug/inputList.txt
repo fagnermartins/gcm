@@ -1,0 +1,5 @@
+C:\Users\Fagner\AndroidStudioProjects\HelloNetwork\app\build\intermediates\classes\debug
+C:\Users\Fagner\AndroidStudioProjects\HelloNetwork\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.0-ce4cf8dc20a4db9f673a74e4937b99132f72b07d.jar
+C:\Users\Fagner\AndroidStudioProjects\HelloNetwork\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.0-d8c3750169ab3029d5a8297de05cae7511e8053e.jar
+C:\Users\Fagner\AndroidStudioProjects\HelloNetwork\app\build\intermediates\pre-dexed\debug\classes-561f01c00263478eaea0cff34399c7fe641d3cff.jar
+C:\Users\Fagner\AndroidStudioProjects\HelloNetwork\app\build\intermediates\pre-dexed\debug\classes-e5746f26692c4f5d11010dd71de8e7c25d93dd08.jar
